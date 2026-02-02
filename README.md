@@ -1,6 +1,6 @@
 # Début de parcours étudiant Data Engineer
 
-**Projet 2 à 4**
+**Projet 2, 3, 4, 7, 8**
 
 
 ---
@@ -10,6 +10,8 @@
 1. [Projet 2](#projet-2)
 2. [Projet 3](#projet-3)
 3. [Projet 4](#projet-4)
+3. [Projet 7](#projet-7)
+3. [Projet 8](#projet-8)
 
 ---
 
@@ -40,9 +42,6 @@ Un fichier pyproject.toml permettant de reproduire votre environnement de travai
 ## Projet 3
 
 Data Engineer chez Laplace Immo, un réseau national d’agences immobilières. Cette entreprise accorde une importance particulière à l’utilisation des données afin de se démarquer de la concurrence. 
-
- 
-
 Vous serez en charge d'un nouveau projet dans lequel vous allez collecter l'ensemble des transactions immobilières en France. Cela permettra entre autres de suivre l'évolution du prix au mètre carré et d'identifier les régions où le marché est le plus porteur. Vous utiliserez ensuite cette base pour analyser le marché et répondre aux besoins de votre entreprise.
 
 ### Objectifs
@@ -53,6 +52,7 @@ Ces compétences sont utiles pour l’ensemble des personnes qui travaillent dan
 
 Dictionnaire des données complété au format tableur 
 Support de présentation
+
 ---
 
 ## Projet 4
@@ -68,4 +68,43 @@ Il est important de comprendre une infrastructure de données ainsi que le cycle
 ### Livrables
 
 rapport d’audit
+support de présentation
+
+---
+
+## Projet 7
+
+Data Engineer dans l’association NosCités, qui surveille les plateformes web de locations de courte durée pour mesurer l’impact qu’elles ont sur l’offre de logements dans plusieurs villes en France (Paris et Lyon). Le but de cette association est de collecter des données et apporter de la transparence dans le débat public sur l’impact des plateformes sur les problématiques de logement.
+Lors de votre première semaine, vous vivez un crash total de la base de données des locations à Paris suite à une insuffisance de précautions mises en œuvre par votre prédécesseur
+pour assurer l'indépendance et la confidentialité de son travail, l'association a choisi de ne pas héberger ses données chez un fournisseur cloud mais d’avoir ses propres serveurs à Paris et à Lyon.
+Heureusement, vous retrouvez une sauvegarde des données sur les locations à Paris ainsi que le dictionnaire
+
+### Objectifs
+
+Ces compétences sont utiles pour les domaines du développement d'applications web, du Big Data, et des systèmes distribués. MongoDB et le NoSQL permettent de gérer efficacement des données non structurées et d'assurer la scalabilité des applications à grande échelle. Ces pratiques sont recherchées par les recruteurs en ingénierie des données, et architecture cloud, car elles permettent d'optimiser les performances des systèmes modernes tout en offrant une grande flexibilité. En maîtrisant MongoDB, vous vous positionnerez favorablement sur le marché du travail dans ces secteurs en forte demande
+
+### Livrables
+
+support de présentation
+
+---
+
+## Projet 8
+
+Vous êtes nouvellement embauché comme Data Engineer dans l’entreprise GreenAndCoop, un fournisseur coopératif français d'électricité d'origine renouvelable dans les Hauts-de-France. 
+En tant que Data Engineer, votre travail est de fournir quotidiennement des données météorologiques de qualité aux Data Scientists pour leurs modèles de prévision.
+
+### Objectifs
+
+Votre quotidien futur de Data Engineer sera essentiellement constitué des activités suivantes : 
+
+Structurer et concevoir des bases de données robustes
+Formaliser les processus de traitement et de stockage des données
+Modéliser des infrastructures compatibles avec le système d’information
+Il vous faudra également installer et configurer les systèmes de gestion de bases de données et leurs outils d’extraction. 
+
+Enfin, vous devrez établir et formaliser les processus de test pour garantir la performance et la sécurité. 
+
+### Livrables
+
 support de présentation
